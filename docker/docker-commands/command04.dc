@@ -1,1 +1,1 @@
-docker container run alpine:3.12 cat /etc/os-release
+docker exec 01container cat /etc/os-release
